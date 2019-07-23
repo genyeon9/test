@@ -6,3 +6,6 @@ def world():
 
 def django():
     print('django')
+
+def error1():
+    pass
