@@ -9,3 +9,6 @@ def django():
 
 def error1():
     pass
+
+def error2():
+    pass
